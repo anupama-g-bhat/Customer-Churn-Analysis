@@ -11,7 +11,7 @@ and provide actionable recommendations to reduce churn.
 ---
 
 ## 📂 Project Structure
-FUTURE_DS_02/
+Customer-churn-Analysis/
 │
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
@@ -85,5 +85,4 @@ FUTURE_DS_02/
 
 ## 👤 Author
 Anupama G
-Data Science & Analytics Intern
-Future Interns
+Data Science & Analytics Student
