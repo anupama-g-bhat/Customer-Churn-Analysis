@@ -45,9 +45,21 @@ Customer-churn-Analysis/
 
 ---
 
+## 📸 Visualizations
+
+### Churn Dashboard
+![Churn Dashboard](churn_dashboard.png)
+
+### Contract Type vs Churn
+![Contract Churn](contract_churn.png)
+
+### Customer Lifetime Value
+![CLV Analysis](clv_analysis.png)
+
 ## 💡 Key Findings
 - Overall churn rate: **26.54%** (1 in 4 customers left!)
 - Month-to-month contracts: **42.71%** churn rate
+- Month-to-month contracts churn at **15x higher rate** than two-year plans
 - Two year contracts: only **2.83%** churn rate
 - Churned customers stayed only **17.97 months** on average
 - Churned customers paid **$74.44/month** vs $61.27 retained
@@ -84,4 +96,4 @@ Customer-churn-Analysis/
 
 ## 👤 Author
 Anupama G
-Data Science & Analytics Student
+Data Science Student
