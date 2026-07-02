@@ -1,5 +1,4 @@
 # 📉 Customer Retention & Churn Analysis
-## Future Interns — Task 2 | Data Science & Analytics
 
 ---
 
