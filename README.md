@@ -10,6 +10,8 @@ and provide actionable recommendations to reduce churn.
 ---
 
 ## 📂 Project Structure
+
+```
 Customer-churn-Analysis/
 │
 ├── data/
@@ -24,7 +26,7 @@ Customer-churn-Analysis/
 ├── clv_analysis.png
 ├── churn_dashboard.png
 └── README.md
-
+```
 ---
 
 ## 📊 Dataset Info
@@ -55,6 +57,8 @@ Customer-churn-Analysis/
 
 ### Customer Lifetime Value
 ![CLV Analysis](clv_analysis.png)
+
+---
 
 ## 💡 Key Findings
 - Overall churn rate: **26.54%** (1 in 4 customers left!)
