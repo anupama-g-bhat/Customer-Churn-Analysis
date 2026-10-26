@@ -15,7 +15,8 @@ and provide actionable recommendations to reduce churn.
 Customer-churn-Analysis/
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│  
+├── notebooks
+    └── churn_analysis.ipynb
 ├── images/
 │   ├── contract_churn.png
 │   ├── tenure_churn.png
@@ -27,7 +28,6 @@ Customer-churn-Analysis/
 ├── powerbi/
 │   ├── Telco_Churn_Dashboard.pbix
 │   └── churn_dashboard.png
-└── churn_analysis.ipynb
 └── README.md
 
 ```
@@ -63,7 +63,7 @@ Customer-churn-Analysis/
 ![CLV Analysis](images/clv_analysis.png)
 
 ## Power BI Dashboard
-![Telco churn dashboard](images/churn_dashboard.png)
+![Telco churn dashboard](Power BI/churn_dashboard.png)
 
 Interactive file: [Telco_Customer_Churn_Analysis.pbix](Power%20BI/Telco_Customer_Churn_Analysis.pbix) (open in Power BI Desktop)
 
