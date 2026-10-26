@@ -63,9 +63,9 @@ Customer-churn-Analysis/
 ![CLV Analysis](images/clv_analysis.png)
 
 ## Power BI Dashboard
-![Telco Customer_churn Analysis](PowerBI/churn_dashboard.png)
+![Telco Customer_churn Analysis](Powerbi/churn_dashboard.png)
 
-Interactive file: [Telco_Customer_Churn_Analysis.pbix](Power%20BI/Telco_Customer_Churn_Analysis.pbix) (open in Power BI Desktop)
+Interactive file: [Telco_Customer_Churn_Analysis.pbix](powerbi/Telco_Customer_Churn_Analysis.pbix) (open in Power BI Desktop)
 
 ---
 
