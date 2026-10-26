@@ -13,18 +13,21 @@ and provide actionable recommendations to reduce churn.
 
 ```
 Customer-churn-Analysis/
-│
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-├── churn_analysis.ipynb
-├── contract_churn.png
-├── tenure_churn.png
-├── charges_churn.png
-├── internet_churn.png
-├── Senior_citizen_churn.png
-├── overall_churn.png
-├── clv_analysis.png
-├── churn_dashboard.png
+├── notebooks/
+│   └── churn_analysis.ipynb
+├── images/
+│   ├── contract_churn.png
+│   ├── tenure_churn.png
+│   ├── charges_churn.png
+│   ├── internet_churn.png
+│   ├── Senior_citizen_churn.png
+│   ├── overall_churn.png
+│   └── clv_analysis.png
+├── powerbi/
+│   ├── Telco_Churn_Dashboard.pbix
+│   └── churn_dashboard.png
 └── README.md
 ```
 ---
@@ -50,13 +53,18 @@ Customer-churn-Analysis/
 ## 📸 Visualizations
 
 ### Churn Dashboard
-![Churn Dashboard](churn_dashboard.png)
+![Churn Dashboard](images/churn_dashboard.png)
 
 ### Contract Type vs Churn
-![Contract Churn](contract_churn.png)
+![Contract Churn](images/contract_churn.png)
 
 ### Customer Lifetime Value
-![CLV Analysis](clv_analysis.png)
+![CLV Analysis](images/clv_analysis.png)
+
+## Power BI Dashboard
+![Telco churn dashboard](images/churn_dashboard.png)
+
+Interactive file: [Telco_Customer_Churn_Analysis.pbix](Power%20BI/Telco_Customer_Churn_Analysis.pbix) (open in Power BI Desktop)
 
 ---
 
